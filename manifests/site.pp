@@ -75,20 +75,6 @@ node default {
   include ruby::1_9_3
   include ruby::2_0_0
 
-  include skype
-  include hipchat
-  include skitch
-  include onepassword
-  include chrome
-  include iterm2::stable
-  include sublime_text_2
-  include dropbox
-  include tower
-  include github_for_mac
-  include adium
-  include viscosity
-  include evernote
-
   # common, useful packages
   package {
     [
