@@ -19,7 +19,7 @@ github "boxen", "2.1.0"
 # some/most of these if you want, but it's not recommended.
 
 # github "dnsmasq",    "1.0.0"
-# github "gcc",        "1.0.0"
+github "gcc",        "1.0.0"
 github "git",        "1.2.2"
 github "homebrew",   "1.1.2"
 github "hub",        "1.0.0"
