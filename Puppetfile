@@ -28,7 +28,7 @@ github "hub",        "1.0.0"
 # github "nodejs",     "2.2.0"
 # github "repository", "2.0.2"
 github "ruby",       "4.1.0"
-# github "stdlib",     "4.0.2", :repo => "puppetlabs/puppetlabs-stdlib"
+github "stdlib",     "4.0.2", :repo => "puppetlabs/puppetlabs-stdlib"
 #  nhgithub "sudo",       "1.0.0"
 
 # Optional/custom modules. There are tons available at
