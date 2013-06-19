@@ -11,7 +11,8 @@ class people::jheuer {
   include github_for_mac
   include adium
   include viscosity
-  include evernote
+  # disabled until this is resolved: https://github.com/jasonamyers/puppet-evernote/issues/2
+  # include evernote
 
   $home     = "/Users/${::luser}"
 #  $my       = "${home}/my"
