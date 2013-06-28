@@ -12,6 +12,9 @@ class people::jheuer {
   include adium
   include viscosity
   include flux
+  include things
+  include mailplane::stable
+  include homebrew
   
   # disabled until folder name issue resolved
   # include littlesnitch

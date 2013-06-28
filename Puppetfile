@@ -48,6 +48,8 @@ github "adium", "1.1.1"
 github "viscosity", "1.0.0"
 github "skitch", "1.0.1"
 github "flux", "0.0.1"
+github "things", "1.0.1"
+github "homebrew", "1.1.2"
 
 github "evernote", "1.0.1", :repo => "jasonamyers/puppet-evernote"
 # github "littlesnitch", "0.0.1", :repo => "andy-shea/puppet-little-snitch"
