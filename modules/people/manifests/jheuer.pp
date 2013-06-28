@@ -11,6 +11,7 @@ class people::jheuer {
   include github_for_mac
   include adium
   include viscosity
+  include skitch
   include flux
   include littlesnitch
 
