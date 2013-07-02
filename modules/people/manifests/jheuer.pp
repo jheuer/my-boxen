@@ -15,6 +15,7 @@ class people::jheuer {
   include things
   include mailplane::stable
   include homebrew
+  include sequel_pro
   
   # disabled until folder name issue resolved
   # include littlesnitch
