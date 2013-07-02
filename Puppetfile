@@ -51,6 +51,6 @@ github "flux", "0.0.1"
 github "things", "1.0.1"
 github "homebrew", "1.1.2"
 github "sequel_pro", "1.0.0"
+github "evernote", "2.0.3", :repo => "jasonamyers/puppet-evernote"
 
-github "evernote", "1.0.1", :repo => "jasonamyers/puppet-evernote"
 # github "littlesnitch", "0.0.1", :repo => "andy-shea/puppet-little-snitch"

@@ -16,12 +16,10 @@ class people::jheuer {
   include mailplane::stable
   include homebrew
   include sequel_pro
-  
+  include evernote
+
   # disabled until folder name issue resolved
   # include littlesnitch
-
-  # disabled until this is resolved: https://github.com/jasonamyers/puppet-evernote/issues/2
-  # include evernote
 
   $home     = "/Users/${::luser}"
 #  $my       = "${home}/my"
